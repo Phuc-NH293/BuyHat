@@ -285,5 +285,61 @@
       "id": 21
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "phuccoiby@gmail.com",
+      "password": "$2a$10$HuT13EGv/DkD8D6Too7o5uBcrk2RQRQUH96s.nGg1BaoTPRumHYw2",
+      "id": 1
+    },
+    {
+      "email": "nghianmph37884@fpt.edu.vn",
+      "password": "$2a$10$P64INmpq2JabO9futQuAiulTcbEY/H/qjitYijIV.U3gWfd6YQ1Iy",
+      "id": 2
+    },
+    {
+      "email": "phamvanquang503@gmail.com",
+      "password": "$2a$10$Xe8yCSU0tyuouAwG3kbra.u8d.RrFHWaZRzWSmGLhMO6xj0RGsVpO",
+      "id": 3
+    },
+    {
+      "email": "tinhnvph34610@fpt.edu.vn",
+      "password": "$2a$10$ZTb5NQ0p6znCLLzBpQfmFuINg3X4EhyxyTtMeH8H8WwbR.oMU/Gu2",
+      "id": 4
+    },
+    {
+      "email": "daominhhoangthien104@gmail.com",
+      "password": "$2a$10$Kk3htfxBZHRYV0z13HVepOZ59jKNL18hiGPZ3kuJwzKxoiXxQ0nqq",
+      "id": 5
+    },
+    {
+      "email": "phuc123@gmail.com",
+      "password": "$2a$10$DyXoCtexZu9QOlOXxwMo5uzdHdjcnvmYA1YYPPbPzo4MrEqwQn8Uu",
+      "id": 6
+    },
+    {
+      "email": "phuc1234@gmail.com",
+      "password": "$2a$10$esUuVLcMuiFh/4BYss6BnugxUNd73jA92iyT67ihP24ROwoeTH96y",
+      "id": 7
+    },
+    {
+      "email": "phuc12345@gmail.com",
+      "password": "$2a$10$TEYDSCsPjzKNbv/Bj2hX2.Mxbc0vTiAL9X1fJEO7ey.3eQF7P.F5i",
+      "id": 8
+    },
+    {
+      "email": "1@gmai.com",
+      "password": "$2a$10$Fuy5p7DNBw03c6A2U9NcsO8NhEv/QUWd6pWTntCk/BmriNTjZowYK",
+      "id": 9
+    },
+    {
+      "email": "phuccoiby1@gmail.com",
+      "password": "$2a$10$5O029r//CAQ6UcTAbKNW4uJn3KO7411GqDCynEVBa3.7/5SagP6Eq",
+      "id": 10
+    },
+    {
+      "email": "phuc2345123@gmail.com",
+      "password": "$2a$10$PtASvR/oSkTiNDqGVMMcCuVUYRvtG.HiWgjy3076Db/u/cA4OKQ0W",
+      "id": 11
+    }
+  ]
 }
