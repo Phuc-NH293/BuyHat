@@ -45,7 +45,7 @@ export class LoginComponent implements OnInit {
         if (data) {
           console.log("ABC", data);
           this.authservice.checkAdminAccess()
-          this.router.navigate(['/home']);
+          this.router.navigate(['/admin']);
         } else {
           console.error('Invalid email or password');
         }
