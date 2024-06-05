@@ -98,6 +98,12 @@
         "creationAt": "2024-05-22T04:01:40.000Z",
         "updatedAt": "2024-05-22T04:01:40.000Z"
       }
+    },
+    {
+      "title": "phuc",
+      "price": 1111,
+      "description": "okokk",
+      "id": 12
     }
   ],
   "users": [
@@ -155,6 +161,16 @@
       "email": "phuc2345123@gmail.com",
       "password": "$2a$10$PtASvR/oSkTiNDqGVMMcCuVUYRvtG.HiWgjy3076Db/u/cA4OKQ0W",
       "id": 11
+    },
+    {
+      "email": "phuc123456@gmail.com",
+      "password": "$2a$10$yU8sNcW4G7F0F7mlQDh1ceroTul42.8ljVfBn5AQPekDbHH7oG2C2",
+      "id": 12
+    },
+    {
+      "email": "hphuc123@gmail.com",
+      "password": "$2a$10$9sFycI8GiKREYA03ajb2COQJxnk5ixafewhSBADtrbl6o/uqw7Ria",
+      "id": 13
     }
   ]
 }
